@@ -3,7 +3,6 @@ def itc_name():
 
 
 def itc_fio():
-    itc_name()
     print('Шипилов', itc_name(), 'Алексеевич')
 
 
